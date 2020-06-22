@@ -12,3 +12,5 @@ ScrollReveal().reveal('.news-cards', { delay: 900 });
 ScrollReveal().reveal('.cards-banner-one', { delay: 900 });
 ScrollReveal().reveal('.cards-banner-two', { delay: 900 });
 ScrollReveal().reveal('.social', { delay: 900 });
+
+// fin de efectos!
